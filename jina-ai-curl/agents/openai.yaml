@@ -1,0 +1,4 @@
+interface:
+  display_name: "Jina AI via Curl"
+  short_description: "Use Jina AI HTTP endpoints with curl"
+  default_prompt: "Use $jina-ai-curl to fetch webpages or search through Jina when direct web access is flaky or blocked."
